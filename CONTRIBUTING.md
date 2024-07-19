@@ -1,6 +1,6 @@
 # Contributing to Simple Interest Calculator
 
-We welcome contributions to the Simple Interest Calculator project! By participating in this project, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md).
+I welcome contributions to the Simple Interest Calculator project! By participating in this project, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## How to Contribute
 
@@ -10,7 +10,7 @@ If you find a bug, please report it by opening an issue in the repository. Provi
 
 ### Suggesting Enhancements
 
-We welcome suggestions for new features and enhancements. Please open an issue in the repository and describe your idea.
+I welcome suggestions for new features and enhancements. Please open an issue in the repository and describe your idea.
 
 ### Submitting Pull Requests
 
